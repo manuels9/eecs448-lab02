@@ -1,6 +1,6 @@
 /**
-*	@author 
-*	@date 
+*	@author Manuel Sandoval
+*	@date 3 February 2020
 *	@file LinkedList.hpp
 *	@brief Implementation file for templated LinkedList class
 */
